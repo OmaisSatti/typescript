@@ -1,0 +1,7 @@
+What is TypeScript?
+TypeScript is a syntactic superset of JavaScript which adds static typing.
+
+This basically means that TypeScript adds syntax on top of JavaScript, allowing developers to add types.
+TypeScript uses compile time type checking.
+
+Which means it checks if the specified types match before running the code, not while running the code.
